@@ -1,13 +1,11 @@
 package com.example.maxrudolph1.shoppingcart;
 
+
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.view.View;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.content.Intent;
 import android.widget.EditText;
 import android.widget.ListView;
@@ -15,30 +13,42 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import android.widget.ArrayAdapter;
+import android.view.*;
 
 
 
 public class MainActivity extends AppCompatActivity {
 
     final public static String EXTRA_MESSAGE = "message test";
+    Toolbar toolbar;
+
+    //Test
+    //final ListView view = (ListView) findViewById(R.id.lv);
+    String[] test = {"test", "test1", "test2"};
+
+    public final List<String> testing = new ArrayList<String>(Arrays.asList(test));
+
+//    public final ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, test);
+
+    //  view.setAdapter(arrayAdapter);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
 
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
+//        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+//        fab.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+//                        .setAction("Action", null).show();
+//            }
+//        });
     }
 
     public void sendMessage(View view) {
@@ -74,13 +84,6 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    final ListView view = (ListView) findViewById(R.id.lv);
-    String[] test = {"test", "test1", "test2"};
 
-    public final List<String> testing = new ArrayList<String>(Arrays.asList(test));
-
-    public final ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(this, android.R.layoutsimple_list_item_1, test);
-
-    view.setAdapter(arrayAdapter);
 
 }
