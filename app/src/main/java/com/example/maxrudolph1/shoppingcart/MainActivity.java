@@ -28,8 +28,7 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        final ListView view = (ListView) findViewById(R.id.lv);
-        String[] test = {"test", "test1", "test2"};
+
 
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
@@ -74,6 +73,8 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+    final ListView view = (ListView) findViewById(R.id.lv);
+    String[] test = {"test", "test1", "test2"};
 
     public final List<String> testing = new ArrayList<String>(Arrays.asList(test));
 
