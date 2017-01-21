@@ -14,13 +14,15 @@ import android.widget.ListView;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.widget.ArrayAdapter;
+import android.widget.ArrayAdapter;
+
 
 
 public class MainActivity extends AppCompatActivity {
 
     final public static String EXTRA_MESSAGE = "message test";
-
+    final ListView view = (ListView) findViewById(R.id.lv);
+    final String[] test = {"test", "test1", "test2"};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,8 +30,6 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        final ListView view = (ListView) findViewById(R.id.lv);
-        String[] test = {"test", "test1", "test2"};
 
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);

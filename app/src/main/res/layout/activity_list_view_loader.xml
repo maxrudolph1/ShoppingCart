@@ -11,7 +11,7 @@
     tools:context="com.example.maxrudolph1.shoppingcart.ListViewLoader">
 
     <ListView
-        android:layout_width="34dp"
+        android:layout_="34dp"
         android:layout_height="34dp"
         android:layout_marginBottom="@dimen/activity_vertical_margin"
 
