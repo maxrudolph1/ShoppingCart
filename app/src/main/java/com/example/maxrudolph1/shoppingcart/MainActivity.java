@@ -10,6 +10,12 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.content.Intent;
 import android.widget.EditText;
+import android.widget.ListView;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.widget.ArrayAdapter;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -21,6 +27,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
+        final ListView view = (ListView) findViewById(R.id.lv);
+        String[] test = {"test", "test1", "test2"};
+
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
@@ -64,4 +74,11 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+    public final List<String> testing = new ArrayList<String>(Arrays.asList(test));
+
+    public final ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(this, android.R.layoutsimple_list_item_1, test);
+
+    view.setAdapter(arrayAdapter);
+
 }
