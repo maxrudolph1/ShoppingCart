@@ -1,5 +1,6 @@
 package com.example.maxrudolph1.shoppingcart;
 
+import android.app.Activity;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -9,12 +10,15 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.content.Intent;
+import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import android.widget.ArrayAdapter;
+
+
 
 
 
@@ -28,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
 
 
 
@@ -79,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
 
     public final List<String> testing = new ArrayList<String>(Arrays.asList(test));
 
-    public final ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(this, android.R.layoutsimple_list_item_1, test);
+    public final ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, test);
 
     view.setAdapter(arrayAdapter);
 
