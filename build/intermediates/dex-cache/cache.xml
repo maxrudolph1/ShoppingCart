@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_38bb94edba757476336ba34bc141333c1145a25a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d7acd238393f2c2d1e3ddf86eac7823bd779cbf">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_037784aec5f2201b9496f771a9cd86e3811e4384/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_c633bbd318a9eda4b2559491882b770338a6b84a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_c27164b887a5d737bbcddc674360d6bb53178667/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_cee5f953e8c3ae6a1e31a1457a7cd24139ca9ee5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_f0d70af85aeb540cc199b3df07f661a74b0c3b84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_0a4e3313584cfec87f803bcc9087f09009c84fea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_52b9a1f1a1ba295eccf0c51f0a8fc40c0bb572d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_ba9faf3617c0d5103fcd97f7140be6913a77f014/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_f0ad9088442aac7e6a54185ffba900cc5a07477c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_81efbf849a4ceb5244beacc59874d6c97ac154c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_a975107d7ce18c0c09fb44ab044c4868f569b54b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_40bfd0cb357c3a092fc9ce9f22fd497c70ccbc9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_6cc86664421e8a146e7da116569cd1d8bdc11613/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_069876177b35bc6c16ebfc13309121a5327a2acd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2f5aff89c0fab77e27b5e950a4abdf23cf3dae82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_f0c01ef6bcf6d7dcaf8f6e1638f3572f0866549d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_0ca8f4ccf45cdd739c89f79cb4388a25cc7f61eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_e925151786fbb29ace01986ac720a8a6ecf04728/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c3ccf8ebacec6e424e1bc919faa7f06893513f1">
+        <dex dex="/Users/maxrudolph1/AndroidStudioProjects/ShoppingCart/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_63b2d03bfdb8b0344a55b751d0c7c8e85e1e6743/classes.dex" />
+    </item>
+
+</items>
